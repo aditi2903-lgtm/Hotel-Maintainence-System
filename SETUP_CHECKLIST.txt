@@ -1,8 +1,0 @@
-SETUP CHECKLIST
-[ ] Install JDK 8 or newer
-[ ] Open this folder in VS Code
-[ ] Install Java Extension Pack
-[ ] Download sqlite-jdbc JAR from https://github.com/xerial/sqlite-jdbc/releases
-[ ] Add the JAR under Java Projects > Referenced Libraries
-[ ] Run Main.java
-[ ] Confirm hotel.db is created in the project folder
